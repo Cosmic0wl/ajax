@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist>
+	<song id="01">
+		<title>Like Real People Do</title>
+		<artist>Hozier</artist>
+		<album>Wasteland, Baby!</album>
+	</song>
+	<song id="02">
+		<title>Mystery of Love</title>
+		<artist>Sufjan Stevens</artist>
+		<album>Call me By your Name</album>
+	</song>
+	<song id="03">
+		<title>Movies</title>
+		<artist>Weyes Blood</artist>
+		<album>Titanic Rising</album>
+	</song>
+	<song id="04">
+		<title>Starcrossed Losers</title>
+		<artist>The Fratellis</artist>
+		<album>In your Own Sweet Time</album>
+	</song>
+	<song id="06">
+		<title>Third Eye</title>
+		<artist>Florence and the Machine</artist>
+		<album>How Big, How Blue, How Beautiful</album>
+	</song>
+	<song id="07">
+		<title>First Love/Late Spring</title>
+		<artist>Mitski</artist>
+		<album>Bury me at Makeout Creek</album>
+	</song>
+	<song id="08">
+		<title>The Less I Know The Better</title>
+		<artist>Tame Impala</artist>
+		<album>Currents</album>
+	</song>
+	<song id="09">
+		<title>Boyish</title>
+		<artist>Japanese Breakfast</artist>
+		<album>Soft Sounds from Another Planet</album>
+	</song>
+</playlist>
